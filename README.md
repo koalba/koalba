@@ -24,6 +24,22 @@
 &nbsp;
 
 <h2 align="center">
+  <br>
+    <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132668-2fc5093c-5c32-406f-9544-c1442da4c877.png">
+</h2>
+
+<p align="center">
+  <a href="https://koalba.github.io/Lemonade-Copycat/" title="Lemonade Copycat - Koalba">
+    <img width="45%" src="https://user-images.githubusercontent.com/34134103/144124137-99014171-7e04-4f3c-aa7f-936d206a645c.png">
+  </a>
+  <a href="https://koalba.github.io/Frontend-Mentor_Pricing-Component-with-Toggle/" title="Pricing Component with Toggle">
+    <img width="45%" src="https://user-images.githubusercontent.com/34134103/144125764-5feb5331-b853-4c34-b3a9-68eeeae33290.png">
+  </a>
+</p>
+
+&nbsp;
+
+<h2 align="center">
     <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132672-936a8bd2-dfe4-49b1-88a3-d5dd95004152.png">
 </h2>
 
@@ -33,25 +49,6 @@
   </a>
   <a href="https://koalba.github.io/Arrows-Copycat/" title="Arrows Copycat - Koalba">
     <img width="45%" src="https://user-images.githubusercontent.com/34134103/144125068-de431c31-72e8-45d5-9b33-876245e97a82.png">
-  </a>
-</p>
-
-&nbsp;
-
-<h2 align="center">
-  <br>
-    <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132668-2fc5093c-5c32-406f-9544-c1442da4c877.png">
-</h2>
-
-<p align="center">
-  <a href="https://koalba.github.io/Lemonade-Copycat/" title="Lemonade Copycat - Koalba">
-    <img width="30%" src="https://user-images.githubusercontent.com/34134103/144124137-99014171-7e04-4f3c-aa7f-936d206a645c.png">
-  </a>
-  <a href="https://koalba.github.io/Frontend-Mentor_Pricing-Component-with-Toggle/" title="Pricing Component with Toggle">
-    <img width="30%" src="https://user-images.githubusercontent.com/34134103/144125764-5feb5331-b853-4c34-b3a9-68eeeae33290.png">
-  </a>
-  <a href="https://koalba.github.io/ARKShelter-Copycat/" title="Ark Shelter Copycat - Koalba">
-    <img width="30%" src="https://user-images.githubusercontent.com/34134103/144133378-c5a03440-2f6c-422e-add5-da846482a0b9.jpg">
   </a>
 </p>
 
