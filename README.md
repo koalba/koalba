@@ -7,7 +7,7 @@
     <img width="25px" src="https://user-images.githubusercontent.com/34134103/144129981-25c34844-3687-458c-8c49-6d60812eb315.png">
   </a>
   &nbsp;
-  <a href="https://koalba.netlify.app/" title="koalba.netlify.app">
+  <a href="https://koalba.com/" title="koalba.com">
     <img height="25px" src="https://user-images.githubusercontent.com/34134103/144129813-d5326b15-30df-47af-9b8a-73cc1873aaa5.png">
   </a>
 </p>
