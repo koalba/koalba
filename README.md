@@ -12,8 +12,6 @@
   </a>
 </p>
 
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQHjh0FGSjxSSQ/profile-displaybackgroundimage-shrink_350_1400/0/1630000075916?e=1643846400&v=beta&t=EuK54qxRxRyVHAVgY2bn5h5AXOxZAO0EJaoGhjj4qjs)](https://github.com/koalba)
-
 <p align="center">
     <img src="https://user-images.githubusercontent.com/34134103/144131617-f9506fe8-0e97-4860-b76a-1189ea3a541b.png">
 </p>
