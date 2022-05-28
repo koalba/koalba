@@ -34,8 +34,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/koalba/TheFork_Copycat" title="The Fork Copycat | Koalba">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825073-a3db019b-4eee-4335-bb3f-a66c78156cd5.jpg">
       <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825072-2abc6662-a8fa-4c28-9752-42bea462f10b.jpg">
+      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825073-a3db019b-4eee-4335-bb3f-a66c78156cd5.jpg">
   </a>
 </p>
 
