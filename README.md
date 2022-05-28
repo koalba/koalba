@@ -34,12 +34,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/koalba/TheFork_Copycat" title="The Fork Copycat | Koalba">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825072-2abc6662-a8fa-4c28-9752-42bea462f10b.jpg">
+      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825213-c7c3b62a-699a-444c-b96d-b03857e482cd.jpg">
       <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825073-a3db019b-4eee-4335-bb3f-a66c78156cd5.jpg">
   </a>
 </p>
 
-&nbsp;
+<!-- &nbsp; -->
 
 <!-- <h2 align="center">
     <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132672-936a8bd2-dfe4-49b1-88a3-d5dd95004152.png">
