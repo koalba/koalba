@@ -27,7 +27,7 @@
 </h2>
 
 <p align="center">
-    <img width="90%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
+    <img width="90%" src="(https://user-images.githubusercontent.com/34134103/170824649-1f19300a-949a-4966-a278-b4bb002d7a7e.jpg">
 </p>
 
 <p align="center">
