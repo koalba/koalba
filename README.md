@@ -27,10 +27,6 @@
 </h2>
 
 <p align="center">
-    <img width="90%" src="https://user-images.githubusercontent.com/34134103/170824649-1f19300a-949a-4966-a278-b4bb002d7a7e.jpg">
-</p>
-
-<p align="center">
   <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat | Koalba">
       <img width="45%" src="https://user-images.githubusercontent.com/34134103/170824788-73fdeb63-ccf1-409b-acf4-8a7144b5520d.jpg">
       <img width="45%" src="https://user-images.githubusercontent.com/34134103/170824649-1f19300a-949a-4966-a278-b4bb002d7a7e.jpg">
