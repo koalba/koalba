@@ -27,11 +27,20 @@
 </h2>
 
 <p align="center">
-  <a href="https://koalba.github.io/Lemonade-Copycat/" title="Lemonade Copycat - Koalba">
-    <img width="45%" src="https://user-images.githubusercontent.com/34134103/144124137-99014171-7e04-4f3c-aa7f-936d206a645c.png">
+  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat - Koalba">
+    REPO
   </a>
-  <a href="https://koalba.github.io/Frontend-Mentor_Pricing-Component-with-Toggle/" title="Pricing Component with Toggle">
-    <img width="45%" src="https://user-images.githubusercontent.com/34134103/144125764-5feb5331-b853-4c34-b3a9-68eeeae33290.png">
+  <a href="https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat - Koalba">
+    LIVE SITE
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat - Koalba">
+    <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
+  </a>
+  <a href="(https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat - Koalba">
+    <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823511-fbe69e5c-ec26-4f2f-8059-33e35fa09ea8.jpg">
   </a>
 </p>
 
