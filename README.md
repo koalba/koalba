@@ -27,20 +27,15 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat - Koalba">
-    REPO
-  </a>
-  <a href="https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat - Koalba">
-    LIVE SITE
-  </a>
+    <img width="90%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
 </p>
 
 <p align="center">
-  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat - Koalba">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
+  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat | Repository">
+      <img width="45%" src="(https://user-images.githubusercontent.com/34134103/170824566-111bdcd5-de2e-4409-beb9-d58ce5f5af82.jpg">
   </a>
-  <a href="(https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat - Koalba">
-    <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823511-fbe69e5c-ec26-4f2f-8059-33e35fa09ea8.jpg">
+  <a href="(https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat | Live Site">
+    <img width="45%" src="https://user-images.githubusercontent.com/34134103/170824565-137d8988-4bc6-40d8-829f-91a7e603c927.jpg">
   </a>
 </p>
 
