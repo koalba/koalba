@@ -37,10 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat - Koalba">
-    <figure width="45%">
-      <img width="100%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
-      <figcaption align = "center"><b>Disney+ Copycat | Repository</b></figcaption>
-    </figure>
+      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823452-a139e5ae-0f08-41ee-b8d2-29d0f87f9da1.jpg">
   </a>
   <a href="(https://disney-plus-copycat.vercel.app/" title="Disney+ Copycat - Koalba">
     <img width="45%" src="https://user-images.githubusercontent.com/34134103/170823511-fbe69e5c-ec26-4f2f-8059-33e35fa09ea8.jpg">
