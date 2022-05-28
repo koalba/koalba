@@ -16,8 +16,8 @@
     <img src="https://user-images.githubusercontent.com/34134103/144131617-f9506fe8-0e97-4860-b76a-1189ea3a541b.png">
 </p>
 
-<p><br>I'm a <strong>Graphic Design</strong> graduate, who found her passion in the art of making webs. I wanted to expand my knowledge in the area, which lead me to be currently studying the <strong>Full Stack Web Design master's degree</strong> in <a href="https://trazos.net/desarrollo-web/master-profesional-en-diseno-web-full-stack/">TRAZOS</a>.</p>
-<p>I hope to make Web Development my proffesion in the near future!</p>
+<p>Hi! I'm Alba García, also known as Koalba, Frontend Developer and Visual Designer. I found my passion and vocation in Web Development while I was studying my degree, and all that lead me to where I am today, and I'm happy to be here!</p>
+<p>I'm currently an intern in Web and Graphic Design in <a href="https://rubrika.es/" title="Rubrika">Rubrika</a>, a Digital Marketing Agency, surrounded by wonderful people.</p>
 
 &nbsp;
 
