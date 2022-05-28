@@ -41,7 +41,7 @@
 
 &nbsp;
 
-<h2 align="center">
+<!-- <h2 align="center">
     <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132672-936a8bd2-dfe4-49b1-88a3-d5dd95004152.png">
 </h2>
 
@@ -52,7 +52,7 @@
   <a href="https://koalba.github.io/Arrows-Copycat/" title="Arrows Copycat - Koalba">
     <img width="45%" src="https://user-images.githubusercontent.com/34134103/144125068-de431c31-72e8-45d5-9b33-876245e97a82.png">
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <br><br><br>
