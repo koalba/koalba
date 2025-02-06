@@ -53,7 +53,7 @@
   </a>
 </p> -->
 
-<p align="center">
+<!--<p align="center">
   <br><br><br>
   <a href="mailto:a.garciarodriguez@hotmail.com" target="_blank">
     <img height="23px" src="https://user-images.githubusercontent.com/34134103/144134929-914dbe62-5d5b-454d-b0d4-1fe1a7a6e8f6.png">
@@ -62,4 +62,4 @@
   &nbsp;
     <img height="23px" src="https://user-images.githubusercontent.com/34134103/144135613-c919b596-3e4b-4bf1-b1b9-d1d90893d06f.png">
   </a>
-</p>
+</p>-->
