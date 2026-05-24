@@ -18,13 +18,6 @@
 
 <p>Hi! I'm Alba García, also known as Koalba, Frontend Developer and Visual Designer. I found my passion and vocation in Web Development while I was studying my degree, and all that lead me to where I am today, and I'm happy to be here!</p>
 
-&nbsp;
-
-<h2 align="center">
-  <br>
-    <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132668-2fc5093c-5c32-406f-9544-c1442da4c877.png">
-</h2>
-
 <!-- &nbsp; -->
 
 <!-- <h2 align="center">
