@@ -25,19 +25,6 @@
     <img height="35px" src="https://user-images.githubusercontent.com/34134103/144132668-2fc5093c-5c32-406f-9544-c1442da4c877.png">
 </h2>
 
-<p align="center">
-  <a href="https://github.com/koalba/DisneyPlus_Copycat" title="Disney+ Copycat | Koalba">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170824941-45aa75a9-a39f-46f4-9cff-60e9242bc1f8.jpg">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170824649-1f19300a-949a-4966-a278-b4bb002d7a7e.jpg">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/koalba/TheFork_Copycat" title="The Fork Copycat | Koalba">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825213-c7c3b62a-699a-444c-b96d-b03857e482cd.jpg">
-      <img width="45%" src="https://user-images.githubusercontent.com/34134103/170825073-a3db019b-4eee-4335-bb3f-a66c78156cd5.jpg">
-  </a>
-</p>
-
 <!-- &nbsp; -->
 
 <!-- <h2 align="center">
